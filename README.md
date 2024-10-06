@@ -1,26 +1,8 @@
-# 🌐 UserRegistrationSystem-Frontend
+# React + Vite
 
-## 📝 Descrição do Projeto
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Este projeto é o **front-end** da aplicação **UserRegistrationSystem-API**. Foi desenvolvido usando **React** e **JavaScript**, com uma interface gráfica simples e elegante para facilitar o gerenciamento de usuários.
+Currently, two official plugins are available:
 
-### Funcionalidades Principais:
-
-- 🆕 **Cadastro de usuários** utilizando a API.
-- ❌ **Exclusão de usuários** diretamente pela interface.
-- 🔗 **Conectividade completa** com a API: [UserRegistrationSystem-API](https://github.com/Gabriel-Carvalho-Villela/UserRegistrationSystem-API).
-
-## 🛠️ Tecnologias Utilizadas
-
-- **React** para o desenvolvimento da interface de usuário.
-- **JavaScript** para a lógica e interação com a API.
-- **CSS** para o design e estilo da aplicação.
-
-## 🚀 Como Rodar o Projeto
-
-Siga os passos abaixo para executar o projeto em sua máquina local:
-
-1. Clone o repositório: `git clone https://github.com/usuario/UserRegistrationSystem-Frontend.git`
-2. Instale as dependências: `npm install`
-3. Inicie o servidor de desenvolvimento: `npm start`
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
